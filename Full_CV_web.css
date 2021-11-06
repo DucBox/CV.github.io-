@@ -519,7 +519,7 @@ img{
 }
 
 .skills__Pr{
-	width: 70%;
+	width: 50%;
 }
 .skills__Ps {
 	width: 60%;
@@ -531,16 +531,16 @@ img{
 	width: 70%;
 }
 .skills__html{
-	width: 40%;
+	width: 50%;
 }
 .skills__css{
 	width: 30%;
 }
 .skills__python{
-	width: 50%;
+	width: 30%;
 }
 .skills__c{
-	width: 20%;
+	width: 10%;
 }
 .skills__com{
 	width: 80%;
